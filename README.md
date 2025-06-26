@@ -12,6 +12,9 @@ Large repository: Since numpy/numpy is a large and mature repository, traversing
 Date parsing errors: While plotting, I had to ensure the date column was properly parsed as a datetime object to extract monthly periods.
 File and modification tracking: Understanding how PyDriller handles file lists (modified_files vs modifications) required careful attention to documentation.
 
+## Share the full conversation (ChatGPT or AI tool)
+To solve this assignment, I mostly went through Stackoverflow and Chat GPT: "https://chatgpt.com/share/685d4971-4b10-800d-a81e-701061bd7c0d"
+
 ## Choose one of your plots: What do you find surprising, confusing, or ambiguous about it? What might explain this?
 Plot: monthly_commit_trend.png – Monthly Commit Activity Line Plot
 Observation:
